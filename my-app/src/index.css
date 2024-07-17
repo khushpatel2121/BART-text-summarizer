@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+
+
+}
+
+textarea::placeholder {
+  color: #6c757d;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
